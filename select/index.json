@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "‘S/’ The Way (TV Size)",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2026-01-03T19:55:04.522990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God Bless The U.S.A.",
+      "artist": "Lee Greenwood",
+      "has_synced": true,
+      "path": "select/01_God_Bless_The_U.S.A._Lee_Greenwood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heartbreak U.S.A.",
+      "artist": "Kitty Wells",
+      "has_synced": false,
+      "path": "select/02_Heartbreak_U.S.A._Kitty_Wells.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Happiest Girl In The Whole U.S.A.",
+      "artist": "Donna Fargo",
+      "has_synced": true,
+      "path": "select/03_The_Happiest_Girl_In_The_Whole_U.S.A._Donna_Fargo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Our Number[s]",
+      "artist": "Woe, Is Me",
+      "has_synced": true,
+      "path": "select/04_Our_Number[s]_Woe,_Is_Me.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Banned in the U.S.A.",
+      "artist": "The 2 Live Crew",
+      "has_synced": true,
+      "path": "select/05_Banned_in_the_U.S.A._The_2_Live_Crew.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dr. S",
+      "artist": "Klovner I Kamp",
+      "has_synced": true,
+      "path": "select/06_Dr._S_Klovner_I_Kamp.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "E.S.D.B.",
+      "artist": "Deichkind",
+      "has_synced": true,
+      "path": "select/07_E.S.D.B._Deichkind.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "B.O.T.S. Radio",
+      "artist": "Ludacris feat. I-20",
+      "has_synced": false,
+      "path": "select/08_B.O.T.S._Radio_Ludacris_feat._I-20.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "B.O.T.S. Radio (feat. I-20)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/09_B.O.T.S._Radio_(feat._I-20)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I think I'm In Love (Prod. S. Class)",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/10_I_think_I'm_In_Love_(Prod._S._Class)_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kickin' Incredibly Dope S**t (Intro)",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/11_Kickin'_Incredibly_Dope_S_t_(Intro)_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "10 d E A T h b R E a s T ⚄ ⚄",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/12_10_d_E_A_T_h_b_R_E_a_s_T_⚄_⚄_Bon_Iver.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "‘S/' The Way",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_‘S_'_The_Way_Ave_Mujica.txt"
+    }
+  ]
+}
